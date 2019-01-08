@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 7, 2019 
+
+**Today's Progress**: Still working on the basics. Not much new, merely the syntax differences need some extra attention.
+
+**Thoughts:** Focus on time! :)
+
 ### Day 3: January 7, 2019 
 
 **Today's Progress**: Just passed the 50% of the JS basics. Again mixed up shifts and unshifts. Found some possible pitfalls regarding variable scopes.
