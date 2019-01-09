@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 4: January 7, 2019 
+### Day 5: January 9, 2019 
+
+**Today's Progress**: Still working on the basics. Not much new, merely the syntax differences need some extra attention.
+
+**Thoughts:** -
+
+### Day 4: January 8, 2019 
 
 **Today's Progress**: Still working on the basics. Not much new, merely the syntax differences need some extra attention.
 
