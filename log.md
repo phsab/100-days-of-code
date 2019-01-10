@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 10, 2019 
+
+**Today's Progress**: Almost finished the basics. Got lost a couple of times in understanding the questions and theory.  
+
+**Thoughts:** The linguistic quality of some the questions could be better. 
+
 ### Day 5: January 9, 2019 
 
 **Today's Progress**: Still working on the basics. Not much new, merely the syntax differences need some extra attention.
