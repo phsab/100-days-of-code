@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 7: January 11, 2019 
+
+**Today's Progress**: Yes! completed the basics of JS, tomorrow it's ES6 time.  
+
+**Thoughts:** Should do this in the morning, not in the evening. 
+
 ### Day 6: January 10, 2019 
 
 **Today's Progress**: Almost finished the basics. Got lost a couple of times in understanding the questions and theory.  
