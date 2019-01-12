@@ -4,9 +4,18 @@
 ### Day 8: January 12, 2019 
 
 **Today's Progress**: ES6. Learned about arrow functions. I fear it will become one my pitfalls as it needs thorough reading.
-I actually got lost at chapter _"Write Higher Order Arrow Functions"_ using the _filter()_ function. How the hell am I supposed to create this while being at beginner level:
+
+I actually got lost at chapter _"Write Higher Order Arrow Functions"_ using the _filter()_ function. 
+
+How the hell am I supposed to create this while being at beginner level:
 
 ```const squaredIntegers = arr.filter( (num) => num > 0 && num % parseInt(num) === 0 ).map( (num) => Math.pow(num, 2) );```
+
+Another suprise at chapter _Use the Rest Operator with Function Parameters_: when solving the challenge I end up with one remark that introduces the _spread operator_ term, which was not discussed in the theory:
+
+_The sum function uses the ... spread operator on the args parameter._
+
+**Solution:** changed the variable name into `args`
 
 **Thoughts:** Ok, this is getting more serious stuff.
 
