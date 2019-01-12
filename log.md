@@ -4,6 +4,8 @@
 ### Day 8: January 12, 2019 
 
 **Today's Progress**: ES6. Learned about arrow functions. I fear it will become one my pitfalls as it needs thorough reading.
+I actually got lost at chapter "Write Higher Order Arrow Functions" using the filter() function. How the hell am I supposed to create this while being at beginner level:
+const squaredIntegers = arr.filter( (num) => num > 0 && num % parseInt(num) === 0 ).map( (num) => Math.pow(num, 2) );
 
 **Thoughts:** Ok, this is getting more serious stuff.
 
