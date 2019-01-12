@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 8: January 12, 2019 
+
+**Today's Progress**: ES6. Learned about arrow functions. I fear it will become one my pitfalls as it needs thorough reading.
+
+**Thoughts:** Ok, this is getting more serious stuff.
+
 ### Day 7: January 11, 2019 
 
 **Today's Progress**: Yes! completed the basics of JS, tomorrow it's ES6 time.  
