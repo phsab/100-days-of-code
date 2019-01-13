@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 13, 2019 
+
+**Today's Progress**: ES6. Learned about destructuring assignments and variable assigments, learned som new shorthands too. 
+
+**Thoughts:** Doesn't seem useful at the moment, but I will need real life cases to make it to good use.
 
 ### Day 8: January 12, 2019 
 
