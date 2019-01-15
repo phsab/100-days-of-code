@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 10: January 15, 2019 
+
+**Today's Progress**: Completed ES6. Learned about constructor functions and importing/exporting stuff. Moved on to my favourite programming skills: regex! Discovered some nice tricks JS has in it's sleeve.
+
+**Thoughts:** None.
+
 ### Day 9: January 13, 2019 
 
 **Today's Progress**: ES6. Learned about destructuring assignments and variable assigments, learned som new shorthands too. 
