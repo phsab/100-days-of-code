@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 11: January 16, 2019 
+
+**Today's Progress**: Worked my way through JS regex. Learned some shorthands that might come in handy.
+
+**Thoughts:** None.
+
 ### Day 10: January 15, 2019 
 
 **Today's Progress**: Completed ES6. Learned about constructor functions and importing/exporting stuff. Moved on to my favourite programming skills: regex! Discovered some nice tricks JS has in it's sleeve.
