@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 12: January 17, 2019 
+
+**Today's Progress**: Finished JS regex. Went through some debugging lessons and learned about some common pitfalls. Played a little with console.log(), need to remember to use it more often.
+
+**Thoughts:** console.log() is definitely an important feature. Need to remember that.
+
 ### Day 11: January 16, 2019 
 
 **Today's Progress**: Worked my way through JS regex. Learned some shorthands that might come in handy.
