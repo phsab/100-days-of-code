@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 18, 2019 
+
+**Today's Progress**: Went totally nuts on arrays with push, pop, unshift, splice. Am I the only one mixing these methods every now and then?
+
+**Thoughts:** console.log() is definitely an important feature. Need to remember that.
 
 ### Day 12: January 17, 2019 
 
