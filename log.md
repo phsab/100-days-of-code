@@ -1,10 +1,17 @@
 # 100 Days Of Code - Log
 
+
+### Day 14: January 19, 2019 
+
+**Today's Progress**: Continued with more in-depth focus on JS arrays, multi dimensional arrays and objects. It's all still high level. Definitely need more practicing. Looking for a good JS reference guide. Suggestions are welcome.
+
+**Thoughts:** I need a good reference guide. I know I will need it when I start my own projects.
+
 ### Day 13: January 18, 2019 
 
 **Today's Progress**: Went totally nuts on arrays with push, pop, unshift, splice. Am I the only one mixing these methods every now and then?
 
-**Thoughts:** console.log() is definitely an important feature. Need to remember that.
+**Thoughts:** Like I said: I keep messing up these methods!!!
 
 ### Day 12: January 17, 2019 
 
