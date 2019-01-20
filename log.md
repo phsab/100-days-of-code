@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 15: January 20, 2019 
+
+**Today's Progress**: Finally I got my hands on some JS coding exercises from @freecodecamp.org. Still looking for a clear JS reference guide to be used during exercises. Getting slowly my grip on JS, at last! :) 
+
+**Thoughts:** I need a good reference guide. I need one now. Found one on MDN, but it's not as clear as the manual on PHP.net.
 
 ### Day 14: January 19, 2019 
 
