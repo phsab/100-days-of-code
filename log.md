@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 21, 2019 
+
+**Today's Progress**: Had some interesting challenges in coding JS. Still need to read and understand the code better, though. 
+
+**Thoughts:** I still need a good reference guide. Getting confused on using functions stuff like ()
+
 ### Day 15: January 20, 2019 
 
 **Today's Progress**: Finally I got my hands on some JS coding exercises from @freecodecamp.org. Still looking for a clear JS reference guide to be used during exercises. Getting slowly my grip on JS, at last! :) 
