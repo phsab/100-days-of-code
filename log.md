@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 24, 2019 
+
+**Today's Progress**: Learned about JS OOP. Not too hard, just the typical difference in method names. Can't wait to dive into a little further.
+
+**Thoughts:** 
+
 ### Day 17: January 22, 2019 
 
 **Today's Progress**: Been practicing some more JS coding. Unfortunately @freecodecamp is sometimes hard to follow: solutions to challenges that had not been discussed in the curriculum? Might have to check some other tutorials as well.
