@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 25, 2019 
+
+**Today's Progress**: Continued with JS OOP. Got a headache because of poorly written OOP theory. Trying to visualize stuff on my whiteboard to create more sense... may be tomorrow better luck.
+
+**Thoughts:** Need to review this chapter and find a better tutorial.
+
 ### Day 18: January 24, 2019 
 
 **Today's Progress**: Learned about JS OOP. Not too hard, just the typical difference in method names. Can't wait to dive into a little further.
