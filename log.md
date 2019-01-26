@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 20: January 26, 2019 
+
+**Today's Progress**: Been scratching my head for a while on the OOP aspect of JS. I found out that it cannot be compared to regular OOP, well I figured... Need to find a better explanation than what @freecodecamp has.
+
+**Thoughts:** Found something interesting on JS OOP: https://scotch.io/tutorials/object-oriented-programming-in-javascript
+
 ### Day 19: January 25, 2019 
 
 **Today's Progress**: Continued with JS OOP. Got a headache because of poorly written OOP theory. Trying to visualize stuff on my whiteboard to create more sense... may be tomorrow better luck.
