@@ -1,6 +1,12 @@
 # 100 Days Of Code - Log
 
 
+### Day 21: January 27, 2019 
+
+**Today's Progress**: Finished @freecodecamp JS OOP chapter. Not satisfied with their explanation on this subject, decided to continue with MDN and Scotch.io for this part of the coding challenge.
+
+**Thoughts:** MDN: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS
+
 ### Day 20: January 26, 2019 
 
 **Today's Progress**: Been scratching my head for a while on the OOP aspect of JS. I found out that it cannot be compared to regular OOP, well I figured... Need to find a better explanation than what @freecodecamp has.
