@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 22: January 28, 2019 
+
+**Today's Progress**: Finished @freecodecamp JS OOP chapter. Not satisfied with their explanation on this subject, decided to continue with MDN and Scotch.io for this part of the coding challenge.
+
+**Thoughts:** https://youtu.be/PFmuCDHHpwk
 
 ### Day 21: January 27, 2019 
 
