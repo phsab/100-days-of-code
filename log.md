@@ -2,7 +2,7 @@
 
 ### Day 22: January 28, 2019 
 
-**Today's Progress**: Finished @freecodecamp JS OOP chapter. Not satisfied with their explanation on this subject, decided to continue with MDN and Scotch.io for this part of the coding challenge.
+**Today's Progress**: Watched a very useful instruction from @moshhamedani on OOP JS (https://youtu.be/PFmuCDHHpwk), things are much clearer now. And yes, JS OOP is not the same as Python OOP. I just have to forget these concepts when coding JS.
 
 **Thoughts:** https://youtu.be/PFmuCDHHpwk
 
