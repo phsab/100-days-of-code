@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 23: January 29, 2019 
+
+**Today's Progress**: Added the Live Server package to my Atom environment and started to work out some JS examples from yesterday's video. Feeling like I'm doing useful stuff now. Need to feel more certain on this matter before moving to a framework.
+
+**Thoughts:** 
+
 ### Day 22: January 28, 2019 
 
 **Today's Progress**: Watched a very useful instruction from @moshhamedani on OOP JS (https://youtu.be/PFmuCDHHpwk), things are much clearer now. And yes, JS OOP is not the same as Python OOP. I just have to forget these concepts when coding JS.
