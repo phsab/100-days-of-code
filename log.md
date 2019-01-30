@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 24: January 30, 2019 
+
+**Today's Progress**: Happy Birthday Mom! :) I've been working out some programming exercises on some other videos. Still haven't decided whether I should stick to the facturing or constructing function. I guess it's good to know them both, just in case a co-programmer is using the other one. 
+
+**Thoughts:** 
+
 ### Day 23: January 29, 2019 
 
 **Today's Progress**: Added the Live Server package to my Atom environment and started to work out some JS examples from yesterday's video. Feeling like I'm doing useful stuff now. Need to feel more certain on this matter before moving to a framework.
