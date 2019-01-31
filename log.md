@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25: January 31, 2019 
+
+**Today's Progress**: Studied the theory behind primitives and objects more deeply. Worked out some JS examples and created my own versions. Slowly getting a grasp on it! 
+
+**Thoughts:** Might decide to grab a training by Mosh. He's very good at his video instructions.
+
 ### Day 24: January 30, 2019 
 
 **Today's Progress**: Happy Birthday Mom! :) I've been working out some programming exercises on some other videos. Still haven't decided whether I should stick to the facturing or constructing function. I guess it's good to know them both, just in case a co-programmer is using the other one. 
