@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 26: Februari 2, 2019 
+
+**Today's Progress**: Repeated the theory behind abstraction (getters and setters), but also the cloning and the scope of objects. Played with some related exercises. 
+
+**Thoughts:** Mosh's video is perfect!
+
 ### Day 25: January 31, 2019 
 
 **Today's Progress**: Studied the theory behind primitives and objects more deeply. Worked out some JS examples and created my own versions. Slowly getting a grasp on it! 
