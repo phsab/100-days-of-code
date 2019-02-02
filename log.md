@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 26: Februari 2, 2019 
+### Day 26: February 2, 2019 
 
 **Today's Progress**: Repeated the theory behind abstraction (getters and setters), but also the cloning and the scope of objects. Played with some related exercises. 
 
