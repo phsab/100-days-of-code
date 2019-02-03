@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 26: February 2, 2019 
+
+**Today's Progress**: Based upon my experiences with the JS exercises of yesterday, I decided to do a full review of all the theory I learnt so far. Nice way of spending the first 3.5 hours of a Sunday morning! :)
+
+**Thoughts:** Purchased 2 of Mosh's JS courses: Basics (yeah,... I know.... and OOP)
+
 ### Day 26: February 2, 2019 
 
 **Today's Progress**: Repeated the theory behind abstraction (getters and setters), but also the cloning and the scope of objects. Played with some related exercises. 
