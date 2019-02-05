@@ -1,7 +1,13 @@
 # 100 Days Of Code - Log
 
 
-### Day 26: February 2, 2019 
+### Day 28: February 4, 2019 
+
+**Today's Progress**: Continued where I left of yesterday: reviewing what I have learned so far. Refreshing theory of JS.
+
+**Thoughts:** Mosh's videos finally make sense!
+
+### Day 27: February 3, 2019 
 
 **Today's Progress**: Based upon my experiences with the JS exercises of yesterday, I decided to do a full review of all the theory I learnt so far. Nice way of spending the first 3.5 hours of a Sunday morning! :)
 
