@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 30: February 6, 2019 
+
+**Today's Progress**: It's my review week! Found out things I didn't pay attention to before. Like the variable scope in control loops. So basic, but so easy to oversee! That will make my code much cleaner next time.
+
+**Thoughts:** Mosh's videos finally make sense!
 
 ### Day 29: February 5, 2019 
 
