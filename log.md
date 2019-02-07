@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 31: February 7, 2019 
+
+**Today's Progress**: It's my review week! Learned new skills to make my code cleaner and shorter. Feels odd to drop some of my coding habbits, but it looks much better and it improves readability! 
+
+**Thoughts:** 
+
 ### Day 30: February 6, 2019 
 
 **Today's Progress**: It's my review week! Found out things I didn't pay attention to before. Like the variable scope in control loops. So basic, but so easy to oversee! That will make my code much cleaner next time.
