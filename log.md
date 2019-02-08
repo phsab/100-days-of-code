@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 32: February 8, 2019 
+
+**Today's Progress**: It's my review week! Did a further review on my skills with some exercises from @moshhamedani's courses. I found out that taking a few steps back and then redo a coding course can be eye opening. I want to learn to code as good as possible not to learn as fast as possible to code.
+
+**Thoughts:** 
+
 ### Day 31: February 7, 2019 
 
 **Today's Progress**: It's my review week! Learned new skills to make my code cleaner and shorter. Feels odd to drop some of my coding habbits, but it looks much better and it improves readability! 
