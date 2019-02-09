@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 33: February 9, 2019 
+
+**Today's Progress**: It's my review week! Worked out some of @moshhamedani's excersises. Feeling great because one of my solutions was cleaner and shorter than the master's. :) It looks like review week is rewarding itself: my JS coding skills are improving by the day.
+
+**Thoughts:** 
+
 ### Day 32: February 8, 2019 
 
 **Today's Progress**: It's my review week! Did a further review on my skills with some exercises from @moshhamedani's courses. I found out that taking a few steps back and then redo a coding course can be eye opening. I want to learn to code as good as possible not to learn as fast as possible to code.
