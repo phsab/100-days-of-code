@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 34: February 11, 2019 
+
+**Today's Progress**: Practiced my JS skills with some exercises. Reviewed a couple of built-in object references at MDN which I needed for solving the exercises.
+
+**Thoughts:** More exercises: https://www.w3resource.com/javascript-exercises/javascript-basic-exercises.php
+
 ### Day 33: February 9, 2019 
 
 **Today's Progress**: It's my review week! Worked out some of @moshhamedani's excersises. Feeling great because one of my solutions was cleaner and shorter than the master's. :) It looks like review week is rewarding itself: my JS coding skills are improving by the day.
