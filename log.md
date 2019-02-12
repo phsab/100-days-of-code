@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 35: February 12, 2019 
+
+**Today's Progress**: Practiced my JS skills with some exercises. Goofed up some of the exercises by making my solutions too complex... Lesson learned: make a small reference card to help memorize some stuff.
+
+**Thoughts:** Need to make some extra notes on theoretical stuff
+
 ### Day 34: February 11, 2019 
 
 **Today's Progress**: Practiced my JS skills with some exercises. Reviewed a couple of built-in object references at MDN which I needed for solving the exercises.
