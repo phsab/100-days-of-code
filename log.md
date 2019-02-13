@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 36: February 13, 2019 
+
+**Today's Progress**: Organized my coders notes. Got inspired by a couple of JS reference cards online. Decided to create my own in LaTeX. 
+
+**Thoughts:** 
+
 ### Day 35: February 12, 2019 
 
 **Today's Progress**: Practiced my JS skills with some exercises. Goofed up some of the exercises by making my solutions too complex... Lesson learned: make a small reference card to help memorize some stuff.
