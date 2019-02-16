@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 38: February 16, 2019 
+
+**Today's Progress**: Worked on a JS execercise and spent about 15 minutes to find out why my code didn't work. Finally tested with a console.log, which didn't work either. Then I figured it out: I was working at the wrong live server... Anyway the code was ok. :) Need to continue coding a little more useless stuff for practise purposes. 
+
+**Thoughts:** 
+
+### Day 37: February 14, 2019 
+
+**Today's Progress**: Back to the theory of JS OOP. Purchased a video training by @moshhamedani who gives a very clear in-depth training. I think this training will take up entirely the remainder of this challenge. 
+
+**Thoughts:** 
+
 ### Day 36: February 13, 2019 
 
 **Today's Progress**: Organized my coders notes. Got inspired by a couple of JS reference cards online. Decided to create my own in LaTeX. 
