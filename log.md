@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 39: February 18, 2019 
+
+**Today's Progress**: Rather busy, but found some time to work out some more exercises. I know little to report, but practice is necessary. 
+
+**Thoughts:** 
+
 ### Day 38: February 16, 2019 
 
 **Today's Progress**: Worked on a JS execercise and spent about 15 minutes to find out why my code didn't work. Finally tested with a console.log, which didn't work either. Then I figured it out: I was working at the wrong live server... Anyway the code was ok. :) Need to continue coding a little more useless stuff for practise purposes. 
