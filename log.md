@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 40: February 19, 2019 
+
+**Today's Progress**: Enjoyed some theory on new ES6 methods like every() and some(). Need to learn how to overcome this on older browsers though. Again the everlasting webdeveloper dilemma: browser versions!
+
+**Thoughts:** 
+
 ### Day 39: February 18, 2019 
 
 **Today's Progress**: Rather busy, but found some time to work out some more exercises. I know little to report, but practice is necessary. 
