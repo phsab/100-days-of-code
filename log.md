@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 41: February 20, 2019 
+
+**Today's Progress**: Learned some new coding shortcuts. Still annoyed by some of my old skool coding habbits. Hard to get rid of them. Decided to give VCE a try, far more lightweight compared to Atom.
+
+**Thoughts:** 
+
 ### Day 40: February 19, 2019 
 
 **Today's Progress**: Enjoyed some theory on new ES6 methods like every() and some(). Need to learn how to overcome this on older browsers though. Again the everlasting webdeveloper dilemma: browser versions!
