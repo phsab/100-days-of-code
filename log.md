@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 42: February 22, 2019 
+
+**Today's Progress**: Studied some theory and practiced some excercises on the reduce() method. Very useful method, with a lot of options. Still suprised how often it can be applied to shorten code. However it doesn't make code easier to read...
+
+**Thoughts:** 
+
 ### Day 41: February 20, 2019 
 
 **Today's Progress**: Learned some new coding shortcuts. Still annoyed by some of my old skool coding habbits. Hard to get rid of them. Decided to give VCE a try, far more lightweight compared to Atom.
