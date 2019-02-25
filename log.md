@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 44: February 25, 2019 
+
+**Today's Progress**: Had some interesting in depth session on JS class today. My coder notes are growing by the hour. I keep getting suprised by this reduce() method: somehow I keep forgetting it's around. :)
+
+**Thoughts:** 
+
 ### Day 43: February 23, 2019 
 
 **Today's Progress**: Played a more with the use of the reduce() method and some arrow functions. Looks like I'm getting the hang of it. Will work out some usable examples for my JS reference sheet. 
