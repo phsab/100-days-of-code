@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 45: February 26, 2019 
+
+**Today's Progress**: Went deeper into the theory behind the 'this' keyword. It sure is poorely documented, gladly there are some useful instructions to explain what is going on. Found out about different behaviours of this within a method and a function and how to prevent messing around with the window....
+
+**Thoughts:** 
+
 ### Day 44: February 25, 2019 
 
 **Today's Progress**: Had some interesting in depth session on JS class today. My coder notes are growing by the hour. I keep getting suprised by this reduce() method: somehow I keep forgetting it's around. :)
