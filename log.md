@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 46: February 27, 2019 
+
+**Today's Progress**: Explored some methods of changing the this in JavaScript. Found out that the most commonly used method is not the recommended one. Worked out some exercises on this and the bind() method.
+
+**Thoughts:** 
+
 ### Day 45: February 26, 2019 
 
 **Today's Progress**: Went deeper into the theory behind the 'this' keyword. It sure is poorely documented, gladly there are some useful instructions to explain what is going on. Found out about different behaviours of this within a method and a function and how to prevent messing around with the window....
