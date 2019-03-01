@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 47: March 1, 2019 
+
+**Today's Progress**: Back to where I left off with JS OOP some weeks ago. Started an OOP training with Mosh Hamedani. First the basics (again). 
+
+**Thoughts:** 
+
 ### Day 46: February 27, 2019 
 
 **Today's Progress**: Explored some methods of changing the this in JavaScript. Found out that the most commonly used method is not the recommended one. Worked out some exercises on this and the bind() method.
