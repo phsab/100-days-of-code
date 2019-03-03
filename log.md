@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 48: March 3, 2019 
+
+**Today's Progress**: Played a little with all kinds of methods to discover one of the most confusing things in Javascript: functions are actually objects. Well, things make a little more sense now, hahaha!
+
+**Thoughts:** 
+
 ### Day 47: March 1, 2019 
 
 **Today's Progress**: Back to where I left off with JS OOP some weeks ago. Started an OOP training with Mosh Hamedani. First the basics (again). 
