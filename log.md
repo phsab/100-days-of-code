@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 49: March 4, 2019 
+
+**Today's Progress**: Reviewed some theory on objects and played with the abstraction of properties. Again one of the common programmer pitfalls: properties that are accessible globally.
+
+**Thoughts:** 
+
 ### Day 48: March 3, 2019 
 
 **Today's Progress**: Played a little with all kinds of methods to discover one of the most confusing things in Javascript: functions are actually objects. Well, things make a little more sense now, hahaha!
