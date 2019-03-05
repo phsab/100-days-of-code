@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 50: March 5, 2019 
+
+**Today's Progress**: Half of the challenge done! Woot! Decided to pick a few random exercises at https://www.w3resource.com/javascript-exercises/ for practice purposes. Not very useful exercises, so sharing other ES6 exercise resources would be appreciated!
+
+**Thoughts:** 
+
 ### Day 49: March 4, 2019 
 
 **Today's Progress**: Reviewed some theory on objects and played with the abstraction of properties. Again one of the common programmer pitfalls: properties that are accessible globally.
