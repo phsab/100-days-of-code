@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+
+### Day 51: March 15, 2019 
+
+**Today's Progress**: Back to coding after higher priority activities. I had a little fallback and decided to refresh my memory by reviewing my notes first. Then back to Mosh's coding course.
+
+**Thoughts:** 
+
 ### Day 50: March 5, 2019 
 
 **Today's Progress**: Half of the challenge done! Woot! Decided to pick a few random exercises at https://www.w3resource.com/javascript-exercises/ for practice purposes. Not very useful exercises, so sharing other ES6 exercise resources would be appreciated!
