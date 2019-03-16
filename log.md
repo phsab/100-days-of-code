@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
 
+### Day 52: March 16, 2019 
+
+**Today's Progress**: After a short review of my notes, I got my hands on the theory behind prototypes. Learned some interesting stuff on the scope of the properties and how to make descriptors invisible, or readonly.
+
 ### Day 51: March 15, 2019 
 
 **Today's Progress**: Back to coding after higher priority activities. I had a little fallback and decided to refresh my memory by reviewing my notes first. Then back to Mosh's coding course.
