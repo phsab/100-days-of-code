@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
 
+### Day 53: March 18, 2019 
+
+**Today's Progress**: More theory on prototypes and on how to construct them properly. Also studied some historical aspects of prototypes. Behaviour of prototypes makes more sense to me now.
+
 ### Day 52: March 16, 2019 
 
 **Today's Progress**: After a short review of my notes, I got my hands on the theory behind prototypes. Learned some interesting stuff on the scope of the properties and how to make descriptors invisible, or readonly.
